@@ -1,1 +1,14 @@
-
+apiVersion: v1
+entries:
+  auction-service:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-11-02T03:50:51.979363102Z"
+    description: auction service chart
+    digest: b60a4f950a59d01f116d5dfff9569c1187d795bf69382e9c93a5c8589d9ac06c
+    name: auction-service
+    type: application
+    urls:
+    - https://vuhuuthanh.github.io/oas-charts/auction-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-02T03:50:51.978838697Z"
